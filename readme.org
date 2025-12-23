@@ -1,3 +1,5 @@
+*Notice : This repo is forked from "github:jeslie0/nixos-grub-themes".*
+
 #+title: NixOS Grub Themes
 
 This is a flake of Grub themes to use with NixOS. Each of the directories in [[file:themes/][themes]] gives a theme which is usable.
