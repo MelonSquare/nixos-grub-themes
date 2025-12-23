@@ -20,7 +20,7 @@ First you will have to add this repo to your =flake.nix= file as a new input.
   inputs = {
     ...
     # Add nixos-grub-themes to your inputs ...
-    nixos-grub-themes.url = "github:jeslie0/nixos-grub-themes";
+    nixos-grub-themes.url = "github:MelonSquare/nixos-grub-themes";
   };
 
   outputs = inputs@{ nixpkgs, ... }: {
